@@ -28,8 +28,7 @@ Expire objects after retention period
 
 Clean up incomplete multipart uploads
 
-Terraform IaC Structure
-
+Terraform IaC Structure 
 This project is suitable for DevOps/Cloud interviews to showcase hands-on AWS & Terraform skills.
 
 
