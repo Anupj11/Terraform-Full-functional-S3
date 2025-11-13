@@ -35,26 +35,33 @@ This project is suitable for DevOps/Cloud interviews to showcase hands-on AWS & 
 ******************************************************************************
 :- How to Deploy
 
-   - Initialize Terraform:
+Initialize Terraform:
 
-terraform init
-
-
-    - Validate configuration:
-
-terraform validate
+  - terraform init
 
 
-    - Review execution plan:
+Validate configuration:
 
-terraform plan
-
-
-    - Apply changes:
-
-terraform apply -auto-approve
+  - terraform validate
 
 
-    - Destroy resources:
+Review execution plan:
 
-terraform destroy -auto-approve
+  - terraform plan
+
+
+Apply changes:
+
+  - terraform apply -auto-approve
+
+
+Destroy resources:
+
+  - terraform destroy -auto-approve
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+  Author : Anup Jadhav |
+  E-mail : jadhavanup15@gmail.com |
+  Github : https://github.com/Anupj11 |
+  Linkdin : https://www.linkedin.com/in/anup-jadhav/
