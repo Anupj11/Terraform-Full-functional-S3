@@ -62,6 +62,6 @@ Destroy resources:
   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
   Author : Anup Jadhav |
-  E-mail : jadhavanup15@gmail.com |
+  Email : jadhavanup15@gmail.com |
   Github : https://github.com/Anupj11 |
   Linkdin : https://www.linkedin.com/in/anup-jadhav/
